@@ -1,0 +1,42 @@
+.card-product {
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #c7c7c7;
+    border-radius: 10px;
+}
+.produc_header {
+    width: 100%;
+    display: flex;
+    margin: 5px;
+}
+.product_brand {
+    color: #c7c7c7;
+}
+.product_title {
+    width: 100%;
+}
+.product_trash {
+    position: absolute;
+    right: 3rem;
+    background-color: white;
+    color: #e63946;
+    font-size: 1.2rem;
+}
+.product_quantity {
+    width: 30px;
+    border: 1px solid #c7c7c7;
+    display: flex;
+    font-size: 1.2rem;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.product_check {
+    display: flex;
+    gap: 20px;
+    margin: 10px;
+}
+.product_p {
+    color: #c7c7c7;
+}

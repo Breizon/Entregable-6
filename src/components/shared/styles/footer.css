@@ -1,0 +1,26 @@
+.footer{
+    width: 100%;
+    background: #3c3c3b;
+    padding: 60px 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.footer_title {
+    font-size: 1.7rem;
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: white;
+}
+.footer_list {
+    display: flex;
+    gap: 15px;
+}
+.footer_btn {
+    border-radius: 100%;
+    font-size: 2rem;
+    background-color: #6c757d;
+    color: white;
+}

@@ -1,0 +1,33 @@
+.purchase {
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #c7c7c7;
+    border-radius: 10px;
+}
+.purchase_date {
+    border-bottom: 1px solid #c7c7c7;
+    padding: 10px;
+}
+.purchase_card {
+    margin-top: 15px;
+}
+.purchase_list {
+    font-size: 1rem;
+    color: #4e4d4d;
+}
+.purchase_item {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
+    border-bottom: 1px solid #c7c7c7;
+}
+.purchase_quantity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.purchase_price {
+    display: flex;
+    justify-content: end;
+}
